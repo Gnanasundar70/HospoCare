@@ -8,3 +8,4 @@ This is the outline for HospoCare with reference module
 6.User Feature
 7.Hospitals Feature
 8.Disease and Operation List Via Data
+9.Add a Status feature for hospitals to Voice over their "FREE MEDI CAMPS"
