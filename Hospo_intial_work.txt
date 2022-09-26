@@ -7,3 +7,4 @@ This is the outline for HospoCare with reference module
 5.Data Collecting module/Hospital Dash Board
 6.User Feature
 7.Hospitals Feature
+8.Disease and Operation List Via Data
